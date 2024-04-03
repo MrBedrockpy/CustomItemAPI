@@ -1,0 +1,4 @@
+name: CustomItemAPI
+version: '${project.version}'
+main: ru.mrbedrockpy.customitemapi.CustomItemAPI
+api-version: '1.13'
