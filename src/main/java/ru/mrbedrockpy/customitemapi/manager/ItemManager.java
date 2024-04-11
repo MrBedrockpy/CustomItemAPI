@@ -5,7 +5,7 @@ import ru.mrbedrockpy.customitemapi.item.Item;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ItemManager<T> {
+public final class ItemManager<T> {
 
     public static final ItemManager<? extends Item> manager = new ItemManager<>();
 
